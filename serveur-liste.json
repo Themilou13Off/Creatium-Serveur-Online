@@ -5,6 +5,11 @@
     "ip": "play.creatium-mc.fr"
   },
   {
+    "name": "Serveur Event",
+    "description": "Serveur evenementiel de creatium ! Rejoignez nous dans une avanture fole !",
+    "ip": "play.creatium-mc.fr:25578"
+  },
+  {
     "name": "Serveur Test Creatium",
     "description": "Serveur de dev",
     "ip": "play.creatium-mc.fr:25587"
