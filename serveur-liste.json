@@ -1,4 +1,4 @@
 [
   { "name": "Creatium", "ip": "play.creatium.fr" },
-  { "name": "Serveur Test", "ip": "127.0.0.1" }
+  { "name": "Serveur Test", "ip": "play.creatium.fr:25587" }
 ]
