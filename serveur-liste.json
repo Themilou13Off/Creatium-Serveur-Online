@@ -1,4 +1,12 @@
 [
-  { "name": "Creatium", "description": "Serveur de creatium ! Venez vous ammusez sur CREATIUM !", "ip": "play.creatium-mc.fr", },
-  { "name": "Serveur Test Creatium", "description": "Serveur de dev", "ip": "play.creatium-mc.fr:25587" }
+  {
+    "name": "Creatium",
+    "description": "Serveur de creatium ! Venez vous ammusez sur CREATIUM !",
+    "ip": "play.creatium-mc.fr"
+  },
+  {
+    "name": "Serveur Test Creatium",
+    "description": "Serveur de dev",
+    "ip": "play.creatium-mc.fr:25587"
+  }
 ]
