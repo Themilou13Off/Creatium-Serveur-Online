@@ -13,5 +13,10 @@
     "name": "Serveur Test Creatium",
     "description": "Serveur de dev",
     "ip": "play.creatium-mc.fr:25587"
+  },
+  {
+    "name": "Serveur Test Creatium 2",
+    "description": "Serveur de dev n°2",
+    "ip": "play.creatium-mc.fr:25588"
   }
 ]
