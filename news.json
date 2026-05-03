@@ -1,6 +1,11 @@
 [
   {
     "data": "03/05/2026",
+    "name": "A !",
+    "content": "Bienvenue sur le serveur Creatium !\n\nNous avons ouvert nos portes avec pleins de nouveautés.\nVenez découvrir nos modes de jeu exclusifs et rejoignez la communauté !"
+  },
+  {
+    "data": "03/05/2026",
     "name": "News !",
     "content": "Bienvenue sur le serveur Creatium !\n\nNous avons ouvert nos portes avec pleins de nouveautés.\nVenez découvrir nos modes de jeu exclusifs et rejoignez la communauté !"
   }
