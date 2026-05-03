@@ -1,12 +1,8 @@
 [
   {
     "data": "03/05/2026",
-    "name": "A !",
-    "content": "Bienvenue sur le serveur Creatium !\n\nNous avons ouvert nos portes avec pleins de nouveautés.\nVenez découvrir nos modes de jeu exclusifs et rejoignez la communauté !"
-  },
-  {
-    "data": "03/05/2026",
-    "name": "News !",
-    "content": "Bienvenue sur le serveur Creatium !\n\nNous avons ouvert nos portes avec pleins de nouveautés.\nVenez découvrir nos modes de jeu exclusifs et rejoignez la communauté !"
+    "time": "17:48",
+    "name": "Mise à jour 1.2",
+    "content": "Nouvelle mise à jour disponible avec plein de corrections."
   }
 ]
